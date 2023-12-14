@@ -1,0 +1,45 @@
+//Name: KRUTIN BHARATBHAI POLRA
+//Student ID: 135416220
+// I have done all the work on my own
+
+After completing the final project i have learned these aspect of the oop 
+
+Modularity: I've effectively divided my project into multiple header and implementation files, which promotes code modularity and ease of maintenance. Each class is encapsulated in its own header and implementation files, following good coding practices.
+
+Namespaces: I've used namespaces appropriately to encapsulate my classes and prevent naming conflicts. This is essential for maintaining a clean and organized codebase.
+
+Inheritance: my use of inheritance is well-implemented, with the Perishable class inheriting from the Item class. This allows for code reuse and follows the "is-a" relationship between the classes.
+
+Abstraction: The use of abstract classes (i.e., iProduct) helps define a common interface for different types of products, promoting abstraction and making my code more scalable.
+
+Operator Overloading: I've effectively overloaded operators such as +=, -=, ==, <<, and >>, enhancing the usability of my classes and adhering to C++ best practices. First I was experiancing difficulties with operator overloading but as i completed this project and completed the workshops along with watching proffessor fardad's youtube playlist it helped me a lot and now I am confident with the operator overloading.
+
+Memory Management: Proper memory management is evident throughout code, with the use of dynamic memory allocation and deallocation (e.g., using new and delete[]).
+
+File I/O: The implementation of file input/output functions (load and save) for classes shows ability to handle external data storage and retrieval.
+
+Exception Handling: I've implemented a status mechanism to handle and communicate errors or issues encountered during the execution of your program, which is good for user feedback.
+
+User Interface: The Menu class provides a user-friendly interface for navigating through the program, enhancing the overall user experience.
+
+Coding Style: My coding style is consistent, and you've used meaningful variable and function names, enhancing the readability of your code.
+
+In terms of learning experiences, I've likely gained valuable insights into:
+
+Object-Oriented Programming Principles: Applying concepts such as encapsulation, inheritance, polymorphism, and abstraction in a real-world project.
+
+File Input/Output: Handling external data storage and retrieval is a crucial skill, and my implementation of file I/O functions demonstrates proficiency in this area.
+
+Code Organization: The modular structure of project reflects an understanding of code organization and separation of concerns.
+
+Debugging and Troubleshooting: Addressing issues and errors that may arise during development, as indicated by use of the status mechanism.
+
+As for challenges, it's common to face difficulties during a programming project. Some potential challenges might include:
+
+Memory Management: Handling dynamic memory can be error-prone. It's crucial to ensure proper allocation and deallocation to avoid memory leaks or undefined behavior.
+
+Testing: Verifying the correctness of  classes and functions, especially in the presence of user input, can be challenging. Extensive testing is essential to ensure  program behaves as expected.
+
+Exception Handling: Dealing with unexpected situations and errors, such as invalid user input or file-related issues, requires careful consideration and effective error handling.
+
+In summary,final solution demonstrates a solid understanding of object-oriented programming and the principles taught in the OOP244 course. my ability to design, implement, and manage a complex program is commendable. 
